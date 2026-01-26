@@ -445,7 +445,7 @@
         <surefire-version>3.1.2</surefire-version>
         <wiremock-version>3.5.2</wiremock-version>
         <junit-version>4.13.2</junit-version>
-        <assertj-version>3.25.3</assertj-version>
+        <assertj-version>3.27.7</assertj-version>
         <json-schema-validator-version>2.2.14</json-schema-validator-version>
         <nt-json-schema-validator-version>1.4.0</nt-json-schema-validator-version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
